@@ -93,8 +93,7 @@ tensorboard==2.11.2
 tensorboard-data-server==0.6.1
 tensorboard-plugin-wit==1.8.1
 tensorflow-estimator==2.11.0
-tensorflow-macos==2.11.0
-tensorflow-metal==0.7.1
+tensorflow==2.11.1
 termcolor==2.2.0
 threadpoolctl==3.1.0
 tomli==2.0.1
@@ -105,3 +104,4 @@ urllib3==1.26.15
 wcwidth==0.2.6
 Werkzeug==2.2.3
 wrapt==1.15.0
+metaflow
